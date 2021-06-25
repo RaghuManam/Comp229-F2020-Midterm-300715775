@@ -1,6 +1,5 @@
-# Comp229-F2020-Midterm Test
+# COMP229-M2021-MidTerm Test
 
 ## Welcome to the MidTerm Project - the Favourite Book List App
 
-please use **`npm start`** to install project dependencies and run the project
-
+please use **`npm install`** to install project dependencies
